@@ -10,7 +10,7 @@ footnoteReturnLinkContents = "^"
 theme = "origin-hugo-theme"
 
 [params]
-  description = "simple hugo theme"
+  description = "Christopher Gandrud's personal website"
   featured = true
   cssonly = false
 
