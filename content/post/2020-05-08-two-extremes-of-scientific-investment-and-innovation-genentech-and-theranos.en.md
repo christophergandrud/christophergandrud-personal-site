@@ -1,5 +1,5 @@
 ---
-title: 'Two extremes of scientific investment and innovation: Genentech and Theranos'
+title: 'Two extremes of scientific 🧪 investment and innovation: Genentech and Theranos'
 author: Christopher Gandrud
 date: '2020-05-09'
 slug: two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos
@@ -12,15 +12,11 @@ tags:
   - science
 ---
 
-## 🧪 TLDR 
+## The contrast
 
-The level of transparency and scrutiny--the hallmarks of science--are clear differences between two silicon valley biotech companies with very different outcomes--Genentech and Theranos. 
+How can we successfully pair capital and research to produce genuine innovations that bring real value to many people? Two silicon valley biotech companies with very different trajectories highlight some factors that may be involved. The two companies are Genentech and Theranos.
 
-## 🤔 The contrast
-
-How can we successfully pair capital and research to produce genuine innovations that bring real value to many people? Two silicon valley companies with very different trajectories highlight some factors that may be involved. The two companies are Genentech and Theranos.
-
-Both companies started in silicon valley with the aim to do basic medical research and turn research outputs into successful products. Founded in 1976, Genentech has been [enduringly successful](https://en.wikipedia.org/wiki/Genentech#Products_timeline) since it's first breakthrough in 1982; synthetic insulin, the first human genetically engineered human therapeutic. Theranos was founded in 2003. It claimed to be developing a dramatically more patient friendly way to do blood tests, but ended not really producing much, except a lot of court cases. Superficially similar--silicon valley biotech companies--, their early investors were quite different in how:
+Both venture capital funded companies started in silicon valley with the aim to create valuable products on top of basic scientific research. Founded in 1976, Genentech has been [enduringly successful](https://en.wikipedia.org/wiki/Genentech#Products_timeline) since it's first breakthrough in 1982. It created synthetic insulin, the first human genetically engineered human therapeutic. Theranos was founded in 2003. It claimed to be developing a dramatically more patient friendly blood testing method, but ended not really producing much, except a lot of court cases. Superficially similar, their early investors were quite different in how:
 
 - technically knowledgeable they were,
 
@@ -38,11 +34,13 @@ The venture capital firm Kleiner & Perkins was an early investor in Genentech. K
 
 3. The _ability to develop_ the investment
 
-(211, emphasis in the original). The investment firm was founded on the principle to be knowledgeable in the technology and actively use this expertise to develop the new company. 
+(211, emphasis in the original). The investment firm was founded on the principle to be knowledgeable in the technology and actively use this expertise to develop and de-risk the new company. 
 
-When Genentech founder Bob Swanson approached Kleiner & Perkins for a founding investment in 1976, he asked for $2 million for laboratory space, equipment, and salaries. 
+When Genentech founder--UCSF biochemist Bob Swanson approached Kleiner & Perkins for a founding investment in 1976, he asked for $2 million for laboratory space, equipment, and salaries. 
 
 > "Perkins pushed back, encouraging Swanson to consider financially leaner alternatives. Swanson returned to Perkins with a plan to subcontract out to local universities and research centers. Perkins agreed to invest $100,000." (Nicholas 2019, 218).
+
+![Genentech founders Herbert Boyer (left) and Robert Swanson (right). Source: <https://www.gene.com/about-us/leadership/our-founders>](/post/2020-05-08-two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos.en_files/genentech_inline_founders.jpg)
 
 Working with labs at UCSF, a private California hospital, and CalTech allowed Genentech to take advantage of a wider range of scientific skills. Through the end of the 1970s, Swanson worked on a "proof of principle first" for creating synthetic insulin, focusing the highest risk part of the research problem. The proof was successful and "produced patents and scientific articles that signaled Genentech's commitment to world-class basic research" (Nicholas 2019, 219). Despite being a minority investor in Genentech, Perkins 
 
@@ -70,7 +68,7 @@ Note that much of the gains don't necessarily come from open science as in compl
 
 For me the biggest lesson of Theranos: turning away from scientific best practice with secrecy and weak governance resulted in a ton of wasted time and talent. Genentech provides an example of how engaging with scientific best practice and having skilled investors holding founders accountable can produce great scientific and business results.  
 
-## 📚 The books
+## The books
 
 This post is based on two books:
 
