@@ -12,11 +12,11 @@ tags:
   - science
 ---
 
-## TLDR 
+## 🧪 TLDR 
 
 The level of transparency and scrutiny--the hallmarks of science--are clear differences between two silicon valley biotech companies with very different outcomes--Genentech and Theranos. 
 
-## The contrast
+## 🤔 The contrast
 
 How can we successfully pair capital and research to produce genuine innovations that bring real value to many people? Two silicon valley companies with very different trajectories highlight some factors that may be involved. The two companies are Genentech and Theranos.
 
@@ -44,7 +44,7 @@ When Genentech founder Bob Swanson approached Kleiner & Perkins for a founding i
 
 > "Perkins pushed back, encouraging Swanson to consider financially leaner alternatives. Swanson returned to Perkins with a plan to subcontract out to local universities and research centers. Perkins agreed to invest $100,000." (Nicholas 2019, 218).
 
-Working with labs at UCSF, a private California hospital, and CalTech allowed Genentech to take advantage of a wider range of scientific skills. Through the end of the 1970s, Swanson worked on a "proof of principle first" for creating synthetic insulin. The proof was successful and "produced patents and scientific articles that signaled Genentech's commitment to world-class basic research" (Nicholas 2019, 219).
+Working with labs at UCSF, a private California hospital, and CalTech allowed Genentech to take advantage of a wider range of scientific skills. Through the end of the 1970s, Swanson worked on a "proof of principle first" for creating synthetic insulin, focusing the highest risk part of the research problem. The proof was successful and "produced patents and scientific articles that signaled Genentech's commitment to world-class basic research" (Nicholas 2019, 219). Despite being a minority investor in Genentech, Perkins 
 
 ### Theranos
 
@@ -70,7 +70,7 @@ Note that much of the gains don't necessarily come from open science as in compl
 
 For me the biggest lesson of Theranos: turning away from scientific best practice with secrecy and weak governance resulted in a ton of wasted time and talent. Genentech provides an example of how engaging with scientific best practice and having skilled investors holding founders accountable can produce great scientific and business results.  
 
-## The books
+## 📚 The books
 
 This post is based on two books:
 
