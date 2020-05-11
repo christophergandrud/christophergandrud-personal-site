@@ -10,10 +10,22 @@ tags:
   - managing
 ---
 
-# 🏗 Basic idea
+**🚧 Under construction. A stub for a post**
+
+## Intro 
 
 A research team, a department, a company is at some fundamental level just:
 
 > a bunch of people talking to each other
 
-Hopefully, when people talk to each other, they convey the meaning they intended to the people they are talking to. This can be a very hard thing to do in practice. You probably have many experiences where what you say was misunderstood. 
+Hopefully, when people talk to each other, they convey the meaning they intended to the people they are talking to. This can be a very hard thing to do in practice. We all have many experiences being misunderstood. 
+
+If a company is "a bunch of people talking to each other", the role of a manager is in part to help people successfully talk to each other. Given the fundamental problem of miscommunication, this is a challenging career. It is also one of the main reasons I find it to be a satisfying career. 
+
+Vera Tobin's (2018) book "Elements of Surprise: Our Mental Limits and the Satisfactions of Plot" helped me both understand better why my work is challenging and why this can also be very satisfying. 
+
+...[TO COMPLETE]
+
+## 📚 Books
+
+> Tobin, Vera. (2018) "Elements of Surprise: Our Mental Limits and the Satisfactions of Plot". Cambridge, MA: Harvard University Press. 
