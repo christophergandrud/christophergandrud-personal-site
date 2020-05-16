@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, Christopher Gandrud</copyright>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,10 @@
     <item>
       <title>About Me</title>
       <link>/about/about/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/about/about/</guid>
-      <description>I&amp;rsquo;m Head of Economics and Experimentation at Zalando SE. I lead teams of social data scientists and software engineers building and evaluating large-scale automated decision-making systems, including Zalando&amp;rsquo;s A/B testing platform. I was previously a research fellow at the Institute for Quantitative Social Science, Harvard University developing statistical software for the social and physical sciences. I have held posts at City, University of London, the Hertie School of Governance, Yonsei University, and the London School of Economics where in 2012 he completed a PhD in quantitative political science.</description>
+      <description>I&amp;rsquo;m Head of Economics and Experimentation at Zalando SE. I lead teams of social data scientists and software engineers building and evaluating large-scale automated decision-making systems, including Zalando&amp;rsquo;s A/B testing platform. I was previously a research fellow at the Institute for Quantitative Social Science, Harvard University developing statistical software for the social and physical sciences. I&amp;rsquo;ve also held posts at City, University of London, the Hertie School of Governance, Yonsei University, and the London School of Economics where in 2012 I completed a PhD in quantitative political science.</description>
     </item>
     
   </channel>
