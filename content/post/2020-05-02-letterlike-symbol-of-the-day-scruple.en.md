@@ -6,13 +6,14 @@ slug: letterlike-symbol-of-the-day-scruple
 categories: []
 tags:
   - letterlike
+  - symbols
 ---
 
 ## ℈ scruple
 
 > a small unit in the apothecaries' system equal to 20 grains ([wiki](https://en.wikipedia.org/wiki/Scruple_(unit)))
 
-# My journey to the character
+## My journey to the character
 
 Alexander Masters' *A Life Discarded* (2016) explores 148 diaries that his friends found in a skip in Cambridge. I've really enjoyed all of Masters' books; a loving biographies of Cambridge oddballs that makes that town seem about as eccentric and moldy as it likely is. 
 
@@ -24,7 +25,7 @@ It comes from Latin, [meaning](https://en.wiktionary.org/wiki/scruple) a "pointe
 
 I'm not sure why scruple came to also mean "to have doubt about doing something one thinks is wrong". 15 minutes of google-ing did not reveal the connection.
 
-# Modern Lithography 
+## Modern Lithography 
 
 Unicode 2108
 
