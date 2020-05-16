@@ -11,6 +11,7 @@ tags:
   - managing
   - science
   - transparency
+  - two books
 ---
 
 <img src="/post/2020-05-08-two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos.en_files/vc-bad-blood.jpg" alt="Two extremes of investing in science" width="80%"/>
@@ -19,7 +20,7 @@ tags:
 
 How can we successfully **pair capital and research** to produce genuine innovations that bring real value to many people? Two silicon valley biotech companies with very different trajectories highlight some factors that may be involved. The two companies are Genentech and Theranos.
 
-Both venture capital funded companies started in silicon valley with the aim to create valuable products based on new scientific research. Founded in 1976, Genentech has been [enduringly successful](https://en.wikipedia.org/wiki/Genentech#Products_timeline) since it's first breakthrough in 1982 when it created synthetic insulin, the first human genetically engineered human therapeutic. Theranos was founded in 2003. It claimed to be developing a dramatically more patient friendly blood testing method, but ended not really producing much, except a lot of court cases. Superficially similar, their **early investors** were quite different in how:
+Both venture-capital-funded companies started in silicon valley with the aim to create valuable products based on new scientific research. Founded in 1976, Genentech has been [enduringly successful](https://en.wikipedia.org/wiki/Genentech#Products_timeline) since its first breakthrough in 1982 when it created synthetic insulin, the first genetically engineered human therapeutic. Theranos was founded in 2003. It claimed to be developing a dramatically more patient-friendly blood testing method, but ended up not really producing much, except a lot of court cases. Superficially similar, their **early investors** were quite different in how:
 
 - **technically knowledgeable** they were,
 
@@ -57,13 +58,13 @@ Working with labs at UCSF, a private California hospital, and Caltech allowed Ge
 
 Carreyrou (2018) tells the story of Theranos as a company that is **secretive with its investors** and **isolated from the broader science community**. The business idea--an easier way to do blood tests--began as an academic project by Elizabeth Holmes while she was an undergrad at Stanford. But the business quickly **strayed away from active academic collaboration**. The types of investors that provided Theranos with its capital are notable for their **lack of technical expertise**. These investors were hands-off and didn't require scientific transparency.
 
-For example, early investors included the father of Holmes' childhood friend whose firm previously invested in consumer ventures, like Hotmail. Other investors did not have experience in biotech, but instead where "corporate turn around specialists", "real estate and private equity investor[s]" (Carreyrou 2018. 15-16). In contrast to Genentech, Theranos was able to secure enough funding from early investors to set up its own secretive lab.
+For example, early investors included the father of Holmes' childhood friend whose firm previously invested in consumer ventures, like Hotmail. Other investors did not have experience in biotech, but instead were "corporate turn around specialists", and "real estate and private equity investor[s]" (Carreyrou 2018. 15-16). In contrast to Genentech, Theranos was able to secure enough funding from early investors to set up its own secretive lab.
 
 Holmes was unsuccessful when she pitched her startup to experienced medical industry investors. Carreyrou describes her pitch to MedVenture Associates: 
 
 > "she spoke quickly and in grand terms about the potential her technology had to change mankind. But when MedVenture partners asked for more specifics about her microchip system and how it would differ from one that had already been developed and commercialized by a company called Abaxis, she got visibly flustered and the meeting grew tense. Unable to answer the partners' probing technical questions, she got up after about an hour and left in a huff." (2018, 16)
 
-While Holmes may have started out with some promising ideas and attracted considerable investment, Theranos never cracked core scientific problems behind their product ambitions. Instead of cutting her losses, Holmes dug in. She used charisma to attract investors, non-disclosure agreements to silence employees, and hijinks to obscure what was actually being developed. For example, the company created an aesthetically pleasing box--the "Edison Box"--with a robotic arm inside to do blood analysis. The box was noisy, dangerous, would occasional break the test tubes it was handling, and produced highly inaccurate test results. It "seemed like something a middle-schooler could build in his garage" (Carreyrou 2018, 186). 
+While Holmes may have started out with some promising ideas and attracted considerable investment, Theranos never cracked the core scientific problems behind their product ambitions. Instead of cutting her losses, Holmes dug in. She used charisma to attract investors, non-disclosure agreements to silence employees, and hijinks to obscure what was actually being developed. For example, the company created an aesthetically pleasing box--the "Edison Box"--with a robotic arm inside to do blood analysis. The box was noisy, dangerous, would occasional break the test tubes it was handling, and produced highly inaccurate test results. It "seemed like something a middle-schooler could build in his garage" (Carreyrou 2018, 186). 
 
 The promise of the Theranos product was that it could do a wide range of tests with a small painless prick, rather than the usual blood draw with a syringe. The science to make this possible never materialised. Without a real product, they took small blood samples, diluted them, and then ran them through otherwise accurate Siemens blood analyzers. This produced much less accurate results. 
 
@@ -73,7 +74,7 @@ Without investor, scientific, and regulatory scrutiny, Theranos continued this d
 
 ## Conclusions: Be transparent, don't waste your time
 
-Transparency, active knowledgeable investors, and collaboration with academic partners aren't guarantees of success. Basic research is high risk. We don't even know if a solution exists. However, transparency, collaboration, and active knowledgeable investors can help a new company identify faster if solutions exist. If solutions don't exist (at least not on the research path being pursed), they help identify this faster too. This information enables founders and investors to move onto other promising projects, rather than sinking further into projects that aren't likely to have meaningful results. [Koning et al. (2019)](https://www.nber.org/papers/w26278) similarly find that startups that use A/B testing are more successful or fail faster. 
+Transparency, active knowledgeable investors, and collaboration with academic partners aren't guarantees of success. Basic research is high risk; researchers and investors never know definitivelu know in advance if a solution exists for the problem they're working on. However, transparency, collaboration, and active, knowledgeable investors can help a new company more quickly identify whether solutions exist. If solutions don't exist (at least not on the research path being pursed), they help identify this faster too. This information enables founders and investors to move onto other promising projects, rather than sinking further into projects that aren't likely to have meaningful results. [Koning et al. (2019)](https://www.nber.org/papers/w26278) similarly find that startups that use A/B testing are more successful or fail faster. 
 
 Scientific principles help us identify what works and what doesn't so we can make better business decisions. 
 
