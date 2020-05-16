@@ -32,3 +32,5 @@ Vera Tobin's (2018) book "Elements of Surprise: Our Mental Limits and the Satisf
 ## 📚 Books
 
 > Tobin, Vera. (2018) "Elements of Surprise: Our Mental Limits and the Satisfactions of Plot". Cambridge, MA: Harvard University Press. 
+
+> Zhuo, Julia. (2019) "The Making ofa Manager: What to do when everyone looks to you". London: Virgin Books.

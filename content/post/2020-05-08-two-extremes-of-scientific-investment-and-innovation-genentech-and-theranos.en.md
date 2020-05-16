@@ -78,7 +78,7 @@ Transparency, active knowledgeable investors, and collaboration with academic pa
 
 Scientific principles help us identify what works and what doesn't so we can make better business decisions. 
 
-## The books
+## 📚 The books
 
 This post is based on two books:
 
