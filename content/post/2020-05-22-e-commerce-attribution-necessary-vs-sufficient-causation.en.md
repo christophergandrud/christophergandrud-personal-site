@@ -1,0 +1,86 @@
+---
+title: 'E-commerce Attribution: Necessary vs. Sufficient Causation'
+author: Christopher Gandrud
+date: '2020-05-22'
+slug: e-commerce-attribution-necessary-vs-sufficient-causation
+categories: []
+tags: [e-commerce, attribution, causation]
+---
+
+## The attribution problem: necessary vs. sufficient conditions of causation
+
+The tools of causal inference--particularly the concepts of necessary and sufficient causation--are central to solving the e-commerce **attribution problem**. The e-commerce attribution problem is:
+
+> how much of the value of an outcome should we ascribe to a given customer touch point out of a set of touch points that preceded the outcome?
+
+For example, a customer buys a t-shirt. What value should we ascribe to the multiple touch points where the customer saw and interacted with the t-shirt: Facebook ads for the t-shirt, on-site recommendations for the t-shirt, putting the t-shirt in their wishlist, putting the t-shirt in their cart, checkout out the t-shirt? The e-commerce attribution problem is a version of the "causes of effects" problem discussed by @gelman2013ask and @yamamoto2012understanding.[^whyaskwhy] 
+
+_Why is this problem important?_ Solving the attribution problem helps us make better decisions about how to invest in developing customer touch points (e.g. Facebook marketing, on-site recommendations, etc.) that are most likely to achieve our business objectives (e.g. increase sales). We want to invest in the touch points that are most likely to cause _incremental_ value.
+
+### The checkout attribution problem
+
+To understand how to solve the attribution problem, let's think about a simple concrete example: the checkout attribution problem. Imagine we are interested in attributing value to the touch points that lead to the sale of a product. There are three possible customer touch points leading to a sale: off-site advertising, on-site recommendations, and checkout. All sales must include interacting with the checkout: 
+
+![The Checkout Problem as a DAG](/post/2020-05-22-e-commerce-attribution-necessary-vs-sufficient-causation.en_files/checkout-problem.png){width=50%}
+
+What value should we attribute to each of these touch points? Since all customer journeys to a sale have to go through the checkout, does this mean that we should attribute all of the value of the sale to the checkout? The answer is "no", but to understand why we need to make a distinction between necessary and sufficient causal conditions [@pearl1999probabilities; @Pearl2018bookofwhy 287-291] 
+
+#### Necessary vs. sufficient causation 
+
+Let's represent a sale as $y = 1$ and no sale as $y = 0$. When a customer experiences a touch point (advertising, recommendations, checkout) then $x_{\mathrm{ad}} = 1$, $x_{\mathrm{reco}} = 1$, and $x_{\mathrm{checkout}} = 1$, 0 otherwise. 
+
+Rather than thinking about whether a given touch point is _a_ necessary or sufficient condition, let's consider their _probability_ of necessity and sufficiency. 
+
+The **probability of necessity** for a given touch point $x$ ($\mathrm{PN}_x$) is:
+
+$$
+\mathrm{PN}_x = P(y_{x = 0} = 0| x = 1, y = 1).
+$$
+
+This expresses a counterfactual scenario. Give that the condition happened $(x = 1)$ and there was a sale $(y = 1)$ , what is the probability that the sale would not have happened had condition $x$ not have happened? The checkout has high probability of necessity for sale because the probability that a sale occurs without a checkout is 0. Advertising and recommendations have lower probability of necessity. A sale could still happen if a customer saw a recommendation, but not advertising and vice versa.  
+
+The **probability of sufficiency** for a given touch point $x$ ($\mathrm{PS}_x$) is:
+
+$$
+\mathrm{PS}_x = P(y_{x = 1} = 1| x = 0, y = 0).
+$$
+
+This time the counterfactual scenario is: given that the condition $x$ did not happen and there was no sale, what is the probability that a sale would have happened had the condition happened? Checkout has a low probability of sufficiency. If a customer is only exposed to a checkout page they probably won't purchase. Advertising and recommendations have higher sufficiency. If a customer sees either an advertisement or a recommendation for a product they are more likely to purchase. 
+
+In sum:
+
+| Touch Point    | Probability of Necessity | Probability of Sufficiency |
+| -------------- | ------------------------ | -------------------------- |
+| Advertisement  | 0                        | Higher                     |
+| Recommendation | 0                        | Higher                     |
+| Checkout       | 1                        | Very Low                   |
+
+So what? 
+
+Let's remember the problem we are trying to solve: decide how much to invest in each touch point to increase our incremental return. Once we have already decided to invest in necessary touch points, _knowing a touch point's probability of sufficiency is more important than its probability of necessity for further investment decisions_.
+
+#### Implications
+
+Let's make this simple example more concrete to see the implications for decision-making. Imagine the following (completely fictional) numbers:
+
+| Touch Point    | Probability of Necessity | Probability of Sufficiency |
+| -------------- | ------------------------ | -------------------------- |
+| Advertisement  | 0                        | 0.1                        |
+| Recommendation | 0                        | 0.05                       |
+| Checkout       | 1                        | 0                          |
+
+We have a two step decision making process:
+
+1. Decide where we _must_ invest. The probability of necessity helps us make this decision. We _must_ invest in the checkout or there will be no sales ($\mathrm{PS}_{checkout} = 1$). However, we will have no sales if we only invest in a checkout $PS_\mathrm{checkout} = 0$. So we then . . .
+
+2. Decide where to invest to increase our incremental sales. For this we use the touch point's probability of sufficiency. Based the probabilities in this example, we should invest twice as much in advertising than recommendations ($\frac{\mathrm{PS}_{ad}}{\mathrm{PS}_{reco}} = 2$), assuming their marginal return on each investment is proportional to their probability of sufficiency and there is the ability and some reason to invest in both.
+
+How do we find these incremental probabilities? We need causal inference methods like A/B testing and quasi-experimental methods.[^whyaskwhy-inference] We don't need these methods for touch points with high probability of necessity. They are so obviously necessary that we wouldn't want to do an A/B test because the consequences of turning them off would be obviously catastrophic.  
+
+@Pearl2018bookofwhy [290-291] argues that distinguishing between necessary and sufficient probabilities is crucial for all automated decision-making systems, including AI generally. Without it, we will not be able to build sensible decision making systems that can reason about causes. 
+
+
+
+[^whyaskwhy]: A *causes of effects* question--is something like: why did a customer buy this? This is in contrast to what we looked at earlier in the chapter *effects of causes* questions. An example effects of causes question is: what if we advertise more? 
+
+[^whyaskwhy-inference]: @gelman2013ask argue that "we ask reverse causal questions [necessary and sufficient causal questions] all the time, but we do not perform reverse causal inference . . . “Why” questions motivate “What if” questions that can be studied using standard statistical tools such as experiments, observational studies, and structural equation models . . . once the question has been framed in terms of the effect of a specific variable, its resolution is conducted within the realm of forward causal reasoning" (2). 

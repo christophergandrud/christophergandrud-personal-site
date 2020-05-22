@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>attribution on Christopher Gandrud ℈</title>
+    <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/attribution/</link>
+    <description>Recent content in attribution on Christopher Gandrud ℈</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2020, Christopher Gandrud</copyright>
+    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dazzling-roentgen-3e71e9.netlify.app/tags/attribution/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>E-commerce Attribution: Necessary vs. Sufficient Causation</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/post/e-commerce-attribution-necessary-vs-sufficient-causation/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/post/e-commerce-attribution-necessary-vs-sufficient-causation/</guid>
+      <description>The attribution problem: necessary vs. sufficient conditions of causation The tools of causal inference&amp;ndash;particularly the concepts of necessary and sufficient causation&amp;ndash;are central to solving the e-commerce attribution problem. The e-commerce attribution problem is:
+ how much of the value of an outcome should we ascribe to a given customer touch point out of a set of touch points that preceded the outcome?
+ For example, a customer buys a t-shirt. What value should we ascribe to the multiple touch points where the customer saw and interacted with the t-shirt: Facebook ads for the t-shirt, on-site recommendations for the t-shirt, putting the t-shirt in their wishlist, putting the t-shirt in their cart, checkout out the t-shirt?</description>
+    </item>
+    
+  </channel>
+</rss>

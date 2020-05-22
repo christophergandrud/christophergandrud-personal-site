@@ -16,4 +16,4 @@ I'm Head of Economics and Experimentation at [Zalando SE](https://www.zalando.de
 
 A silly picture my 5 year old son took of me on vacation:
 
-![<img src="img/re-res-book-cover-3rd.png"/>](img/christopher-gandrud-profile.svg)
+<img src="/about/about_files/christopher-gandrud-profile.svg" alt="A silly photo of me" width="50%"/>
