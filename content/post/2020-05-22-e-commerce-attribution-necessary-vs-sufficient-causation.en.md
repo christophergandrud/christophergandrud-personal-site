@@ -5,6 +5,7 @@ date: '2020-05-22'
 slug: e-commerce-attribution-necessary-vs-sufficient-causation
 categories: []
 tags: [e-commerce, attribution, causation]
+math: true
 ---
 
 ## The attribution problem: necessary vs. sufficient conditions of causation
