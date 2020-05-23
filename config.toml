@@ -9,7 +9,6 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 theme = "origin-hugo-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-math = true
 
 [params]
   description = "Christopher Gandrud's personal website"

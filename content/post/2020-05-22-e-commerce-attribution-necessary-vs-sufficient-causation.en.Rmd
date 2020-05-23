@@ -5,8 +5,7 @@ date: '2020-05-22'
 slug: e-commerce-attribution-necessary-vs-sufficient-causation
 categories: []
 tags: [e-commerce, attribution, causation]
-markup: "mmark"
-math: true
+bibliography: main.bib
 ---
 
 ## The attribution problem: necessary vs. sufficient conditions of causation
@@ -86,3 +85,5 @@ How do we find these incremental probabilities? We need causal inference methods
 [^whyaskwhy]: A *causes of effects* question--is something like: why did a customer buy this? This is in contrast to what we looked at earlier in the chapter *effects of causes* questions. An example effects of causes question is: what if we advertise more? 
 
 [^whyaskwhy-inference]: @gelman2013ask argue that "we ask reverse causal questions [necessary and sufficient causal questions] all the time, but we do not perform reverse causal inference . . . “Why” questions motivate “What if” questions that can be studied using standard statistical tools such as experiments, observational studies, and structural equation models . . . once the question has been framed in terms of the effect of a specific variable, its resolution is conducted within the realm of forward causal reasoning" (2). 
+
+## References

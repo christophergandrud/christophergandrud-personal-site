@@ -1,10 +1,9 @@
 <footer class="post-footer">
     <div class="footer">
+        {{ partial "foot_custom.html" . }}
         {{with .Site.Copyright }}
             <div>{{ . | safeHTML }}</div>
         {{end}}
         <div class="footer__socials">{{partial "social.html" .}}</div>
     </div>
 </footer>
-
-{{ if .Params.math}}{{ partial "math.html" . }}{{ end }}
