@@ -1,6 +1,6 @@
 ---
 aliases:
-- about-us
+- about-me
 - contact
 author: Christopher Gandrud
 date: "2020-05-16"
@@ -16,4 +16,4 @@ I'm Head of Economics and Experimentation at [Zalando SE](https://www.zalando.de
 
 A silly picture my 5 year old son took of me on vacation:
 
-<img src="/about/about_files/christopher-gandrud-profile.svg" alt="A silly photo of me" width="50%"/>
+<img src="/about/about_files/christopher-gandrud-profile.svg" alt="Christopher Gandrud" width="50%"/>

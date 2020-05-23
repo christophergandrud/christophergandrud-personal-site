@@ -44,7 +44,7 @@ When Genentech cofounder--UCSF biochemist Bob Swanson approached Kleiner & Perki
 
 > "Perkins pushed back, encouraging Swanson to consider financially leaner alternatives. Swanson returned to Perkins with a plan to subcontract out to local universities and research centers. Perkins agreed to invest $100,000." (Nicholas 2019, 218).
 
-<img src="/post/2020-05-08-two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos.en_files/genentech_inline_founders.jpg" alt="Genentech founders Herbert Boyer (left) and Robert Swanson (right). Source: &lt;https://www.gene.com/about-us/leadership/our-founders&gt;" width="80%"/>
+<img src="/post/2020-05-08-two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos.en_files/genentech_inline_founders.jpg" alt="Genentech founders Herbert Boyer (left) and Robert Swanson (right). Source: &lt;https://www.gene.com/about-us/leadership/our-founders&gt;" width="50%"/>
 
 Despite being a minority investor in Genentech, Perkins was actively involved in the governance of the Genentech. For many years "he spent an afternoon per week at Genentech". 
 

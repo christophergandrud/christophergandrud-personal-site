@@ -21,7 +21,7 @@ _Why is this problem important?_ Solving the attribution problem helps us make b
 
 To understand how to solve the attribution problem, let's think about a simple concrete example: the checkout attribution problem. Imagine we are interested in attributing value to the touch points that lead to the sale of a product. There are three possible customer touch points leading to a sale: off-site advertising, on-site recommendations, and checkout. All sales must include interacting with the checkout: 
 
-![The Checkout Problem as a DAG](/post/2020-05-22-e-commerce-attribution-necessary-vs-sufficient-causation.en_files/checkout-problem.png){width=50%}
+<img src="/post/2020-05-22-e-commerce-attribution-necessary-vs-sufficient-causation.en_files/checkout-problem.png" alt="The Checkout Problem as a DAG" width="50%"/>
 
 What value should we attribute to each of these touch points? Since all customer journeys to a sale have to go through the checkout, does this mean that we should attribute all of the value of the sale to the checkout? The answer is "no", but to understand why we need to make a distinction between necessary and sufficient causal conditions [@pearl1999probabilities; @Pearl2018bookofwhy 287-291] 
 
