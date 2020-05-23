@@ -6,3 +6,5 @@
         <div class="footer__socials">{{partial "social.html" .}}</div>
     </div>
 </footer>
+
+{{ if .Params.math}}{{ partial "math.html" . }}{{ end }}

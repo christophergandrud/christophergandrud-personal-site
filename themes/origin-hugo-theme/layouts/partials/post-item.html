@@ -3,8 +3,4 @@
     <p>{{.Description}}</p>
     <time>{{.Date}}</time>
     <div>{{.Author}}</div>
-    <p>{{ if or .Params.math .Site.Params.math }}
-        {{ partial "math.html" . }}
-        {{ end }}
-    </p>
 </article>
