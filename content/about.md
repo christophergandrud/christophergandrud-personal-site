@@ -21,6 +21,6 @@ A silly picture my 5 year old son took of me on vacation:
 </center>
 
 
-<p margin="20%">
+<p style="margin:20%">
   This site's theme is based on the [Origin Hugo theme](https://themes.gohugo.io/origin-hugo-theme/) by Andrey Parfenov.
 </p>
