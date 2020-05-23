@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Christopher Gandrud ℈</title>
-    <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/index/</link>
+    <link>/tags/index/</link>
     <description>Recent content in index on Christopher Gandrud ℈</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, Christopher Gandrud</copyright>
     
-	<atom:link href="https://dazzling-roentgen-3e71e9.netlify.app/tags/index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>https://dazzling-roentgen-3e71e9.netlify.app/post/</link>
+      <link>/post/</link>
       <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dazzling-roentgen-3e71e9.netlify.app/post/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     

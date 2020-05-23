@@ -52,11 +52,15 @@ This time the counterfactual scenario is: given that the condition $x$ did not h
 
 In sum:
 
-| Touch Point    | PN  | PS       |
-| -------------- | --- | -------- |
-| Advertisement  | 0   | Higher   |
-| Recommendation | 0   | Higher   |
-| Checkout       | 1   | Very Low |
+<center>
+
+| Touch Point |  PN   |    PS    |
+| ----------- | :---: | :------: |
+| Ad          |   0   |  Higher  |
+| Reco        |   0   |  Higher  |
+| Checkout    |   1   | Very Low |
+
+</center>
 
 So what? 
 
@@ -66,11 +70,15 @@ Let's remember the problem we are trying to solve: decide how much to invest in 
 
 Let's make this simple example more concrete to see the implications for decision-making. Imagine the following (completely fictional) numbers:
 
-| Touch Point    | PN  | PS   |
-| -------------- | --- | ---- |
-| Advertisement  | 0   | 0.1  |
-| Recommendation | 0   | 0.05 |
-| Checkout       | 1   | 0    |
+<center>
+
+| Touch Point |  PN   |  PS   |
+| ----------- | :---: | :---: |
+| Ad          |   0   |  0.1  |
+| Reco        |   0   | 0.05  |
+| Checkout    |   1   |   0   |
+
+</center>
 
 We have a two step decision making process:
 

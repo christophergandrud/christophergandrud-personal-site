@@ -41,64 +41,68 @@ bibliography: main.bib
 \]</span></p>
 <p>This time the counterfactual scenario is: given that the condition <span class="math inline">\(x\)</span> did not happen and there was no sale, what is the probability that a sale would have happened had the condition happened? Checkout has a low probability of sufficiency. If a customer is only exposed to a checkout page they probably won’t purchase. Advertising and recommendations have higher sufficiency. If a customer sees either an advertisement or a recommendation for a product they are more likely to purchase.</p>
 <p>In sum:</p>
+<center>
 <table>
 <thead>
 <tr class="header">
 <th>Touch Point</th>
-<th>PN</th>
-<th>PS</th>
+<th align="center">PN</th>
+<th align="center">PS</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Advertisement</td>
-<td>0</td>
-<td>Higher</td>
+<td>Ad</td>
+<td align="center">0</td>
+<td align="center">Higher</td>
 </tr>
 <tr class="even">
-<td>Recommendation</td>
-<td>0</td>
-<td>Higher</td>
+<td>Reco</td>
+<td align="center">0</td>
+<td align="center">Higher</td>
 </tr>
 <tr class="odd">
 <td>Checkout</td>
-<td>1</td>
-<td>Very Low</td>
+<td align="center">1</td>
+<td align="center">Very Low</td>
 </tr>
 </tbody>
 </table>
+</center>
 <p>So what?</p>
 <p>Let’s remember the problem we are trying to solve: decide how much to invest in each touch point to increase our incremental return. Once we have already decided to invest in necessary touch points, <em>knowing a touch point’s probability of sufficiency is more important than its probability of necessity for further investment decisions</em>.</p>
 </div>
 <div id="implications" class="section level4">
 <h4>Implications</h4>
 <p>Let’s make this simple example more concrete to see the implications for decision-making. Imagine the following (completely fictional) numbers:</p>
+<center>
 <table>
 <thead>
 <tr class="header">
 <th>Touch Point</th>
-<th>PN</th>
-<th>PS</th>
+<th align="center">PN</th>
+<th align="center">PS</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Advertisement</td>
-<td>0</td>
-<td>0.1</td>
+<td>Ad</td>
+<td align="center">0</td>
+<td align="center">0.1</td>
 </tr>
 <tr class="even">
-<td>Recommendation</td>
-<td>0</td>
-<td>0.05</td>
+<td>Reco</td>
+<td align="center">0</td>
+<td align="center">0.05</td>
 </tr>
 <tr class="odd">
 <td>Checkout</td>
-<td>1</td>
-<td>0</td>
+<td align="center">1</td>
+<td align="center">0</td>
 </tr>
 </tbody>
 </table>
+</center>
 <p>We have a two step decision making process:</p>
 <ol style="list-style-type: decimal">
 <li><p>Decide where we <em>must</em> invest. The probability of necessity helps us make this decision. We <em>must</em> invest in the checkout or there will be no sales (<span class="math inline">\(\mathrm{PS}_{checkout} = 1\)</span>). However, we will have no sales if we only invest in a checkout <span class="math inline">\(PS_\mathrm{checkout} = 0\)</span>. So we then . . .</p></li>
