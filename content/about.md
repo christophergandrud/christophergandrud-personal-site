@@ -19,3 +19,8 @@ A silly picture my 5 year old son took of me on vacation:
 <center>
   <img src="/about/about_files/christopher-gandrud-profile.svg" alt="Christopher Gandrud" width="50%"/>
 </center>
+
+
+<p margin="20%">
+  This site's theme is based on the [Origin Hugo theme](https://themes.gohugo.io/origin-hugo-theme/) by Andrey Parfenov.
+</p>
