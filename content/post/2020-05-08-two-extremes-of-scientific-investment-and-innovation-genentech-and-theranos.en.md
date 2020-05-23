@@ -14,8 +14,9 @@ tags:
   - two books
 ---
 
-<img src="/post/2020-05-08-two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos.en_files/vc-bad-blood.jpg" alt="Two extremes of investing in science" width="80%"/>
-
+<center>
+  <img src="/post/2020-05-08-two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos.en_files/vc-bad-blood.jpg" alt="Two extremes of investing in science" width="80%"/>
+</center>
 ## The contrast
 
 How can we successfully **pair capital and research** to produce genuine innovations that bring real value to many people? Two silicon valley biotech companies with very different trajectories highlight some factors that may be involved. The two companies are Genentech and Theranos.
@@ -44,15 +45,15 @@ When Genentech cofounder--UCSF biochemist Bob Swanson approached Kleiner & Perki
 
 > "Perkins pushed back, encouraging Swanson to consider financially leaner alternatives. Swanson returned to Perkins with a plan to subcontract out to local universities and research centers. Perkins agreed to invest $100,000." (Nicholas 2019, 218).
 
-<img src="/post/2020-05-08-two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos.en_files/genentech_inline_founders.jpg" alt="Genentech founders Herbert Boyer (left) and Robert Swanson (right). Source: &lt;https://www.gene.com/about-us/leadership/our-founders&gt;" width="50%"/>
+<center>
+   <img src="/post/2020-05-08-two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos.en_files/genentech_inline_founders.jpg" alt="Genentech founders Herbert Boyer (left) and Robert Swanson (right). Source: &lt;https://www.gene.com/about-us/leadership/our-founders&gt;" width="50%"/>
+</center>
 
 Despite being a minority investor in Genentech, Perkins was actively involved in the governance of the Genentech. For many years "he spent an afternoon per week at Genentech". 
 
 > "Kleiner & Perkin's association with Genentech epitomized what good governance meant from the standpoint of a professional venture capital firm. Perkins had advocated the lean startup approach, insisting on outsoucing, experimentation, and staged financing as a way to de-risking the business." (Nicholas 2019, 220)
 
 Working with labs at UCSF, a private California hospital, and Caltech allowed Genentech to take advantage of a **wider range of scientific skills and scrutiny**. Through the end of the 1970s, Swanson worked on a **"proof of principle first"** for creating synthetic insulin, focusing the highest risk part of the research problem. The proof was successful and "produced patents and scientific articles that signaled Genentech's commitment to world-class basic research" (Nicholas 2019, 219). 
-
-
 
 ### Theranos
 

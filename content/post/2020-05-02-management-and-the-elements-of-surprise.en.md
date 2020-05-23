@@ -13,7 +13,9 @@ tags:
 
 **🚧 Under construction. A stub for a post**
 
-<img src="/post/2020-05-02-management-and-the-elements-of-surprise.en_files/surprise-making-manager.jpg" alt="The elements of surprise and management" width="80%"/>
+<center>
+  <img src="/post/2020-05-02-management-and-the-elements-of-surprise.en_files/surprise-making-manager.jpg" alt="The elements of surprise and management" width="80%"/>
+</center>
 
 ## Intro 
 
