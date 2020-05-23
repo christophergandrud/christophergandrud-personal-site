@@ -1,14 +1,14 @@
 ---
-title: 'E-commerce Attribution: Necessary vs. Sufficient Causation'
+title: 'E-commerce Attribution & Necessary vs. Sufficient Causation'
 author: Christopher Gandrud
-date: '2020-05-22'
+date: '2020-05-23'
 slug: e-commerce-attribution-necessary-vs-sufficient-causation
 categories: []
-tags: [e-commerce, attribution, causation]
+tags: [e-commerce, attribution, causation, probability]
 bibliography: main.bib
 ---
 
-## The attribution problem: necessary vs. sufficient conditions of causation
+## The basic attribution problem
 
 The tools of causal inference--particularly the concepts of necessary and sufficient causation--are central to solving the e-commerce **attribution problem**. The e-commerce attribution problem is:
 
@@ -50,11 +50,11 @@ This time the counterfactual scenario is: given that the condition $x$ did not h
 
 In sum:
 
-| Touch Point    | Probability of Necessity | Probability of Sufficiency |
-| -------------- | ------------------------ | -------------------------- |
-| Advertisement  | 0                        | Higher                     |
-| Recommendation | 0                        | Higher                     |
-| Checkout       | 1                        | Very Low                   |
+| Touch Point    | PN  | PS       |
+| -------------- | --- | -------- |
+| Advertisement  | 0   | Higher   |
+| Recommendation | 0   | Higher   |
+| Checkout       | 1   | Very Low |
 
 So what? 
 
@@ -64,11 +64,11 @@ Let's remember the problem we are trying to solve: decide how much to invest in 
 
 Let's make this simple example more concrete to see the implications for decision-making. Imagine the following (completely fictional) numbers:
 
-| Touch Point    | Probability of Necessity | Probability of Sufficiency |
-| -------------- | ------------------------ | -------------------------- |
-| Advertisement  | 0                        | 0.1                        |
-| Recommendation | 0                        | 0.05                       |
-| Checkout       | 1                        | 0                          |
+| Touch Point    | PN  | PS   |
+| -------------- | --- | ---- |
+| Advertisement  | 0   | 0.1  |
+| Recommendation | 0   | 0.05 |
+| Checkout       | 1   | 0    |
 
 We have a two step decision making process:
 
