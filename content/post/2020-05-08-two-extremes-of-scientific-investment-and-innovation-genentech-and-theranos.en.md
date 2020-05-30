@@ -17,6 +17,7 @@ tags:
 <center>
   <img src="/post/2020-05-08-two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos.en_files/vc-bad-blood.jpg" alt="Two extremes of investing in science" width="80%"/>
 </center>
+
 ## The contrast
 
 How can we successfully **pair capital and research** to produce genuine innovations that bring real value to many people? Two silicon valley biotech companies with very different trajectories highlight some factors that may be involved. The two companies are Genentech and Theranos.
