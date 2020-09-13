@@ -138,13 +138,22 @@
     <div id="content">
 <article class="post">
   
-    <div class="post-content"><p>The &ldquo;Law&rdquo; of Weird Computer Commands:</p>
+    <div class="post-content"><p>The QWERTY keyboard is one of the more commonly known examples of path dependence. The QWERTY keyboard is the story of how a keyboard designed for typewriters in the 1800s continues to influence the layout of our keyboards.</p>
+<p>Despite the persistence of the QWERTY keyboard letter layout, there was significant variation until about the mid-1990s (when the current desktop operating systems became dominant) for all of the keys surrounding the letters. This creates a reverse-QWERTY Now forgotten keyboard layouts also impact the programming languages and tools we use today. This leads to:</p>
+<p>The &ldquo;Law&rdquo; of Weird Computer Commands:</p>
 <blockquote>
 <p>Any time a computer command seems weird, it&rsquo;s a path dependent consequence of keyboards not being standardised until the mid-1990s.</p>
 </blockquote>
 <p>For example, Vim/Vi is the &ldquo;<a href="https://www.vim.org/">ubiquitous text editor</a>&rdquo;, especially for anyone working with Linux based servers. Just as ubiquitous, are the jokes about how difficult it is to <a href="https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor">exit Vim</a> (here is a <a href="https://stackoverflow.com/a/44201563">flow chart</a> if your interested). You have to use the <code>ESC</code> key constantly, which is inconvenient for people with small hands on most keyboards and a real pain when Apple made the <code>ESC</code> a virtual button on the Touch Bar. The <code>h</code>, <code>j</code>, <code>k</code>, and <code>l</code> keys&ndash;all in one row on a QWERTY keyboard&ndash;are used to move the cursor left, down, up, and right, respectively.</p>
-<p>None of this seems to make any sense, but it does once you see the keyboard used to develop Vi (Vim&rsquo;s predecessor):</p>
+<p>None of this seems to make any sense, but it does once you see the <a href="https://en.wikipedia.org/wiki/ADM-3A">ADM-3A terminal</a> keyboard used to develop Vi, Vim&rsquo;s predecessor (source <a href="https://en.wikipedia.org/wiki/Vi#/media/File:KB_Terminal_ADM3A.svg">Wikipedia</a>):</p>
 <p><img src="/post/2020-09-12-law-of-weird-computer-things.en_files/adm-3a-keyboard-wiki.png" alt="ADM-3A keyboard layout"></p>
+<p>Vim makes so much more sense once you see this keyboard layout. The <code>ESC</code> key is conveniently located not at the upper left extremities of the keyboard like you are probably used to, but more centrally where the <code>Caps Lock</code> key usually lives on modern keyboard. The <code>h</code>, <code>j</code>, <code>k</code>, and <code>l</code> keys served as the arrow keys, accessed with the <code>Ctrl</code>, e.g. <code>Ctrl+h</code> for left navigation.</p>
+<p><a href="https://en.wikipedia.org/wiki/ADM-3A#Legacy">Apparently</a> the tilde <code>~</code> being located on the same key as <code>Home</code> inspired the use of <code>~</code> to denote the home directory in many Unix shells.</p>
+<p>Another strange computing thing that comes up in my work&ndash;primarily using computing for statistics&ndash;is that the assignment operator in the R language is <code>&lt;-</code> as in <code>say_hello &lt;- &quot;Hello!&quot;</code>. Many other languages (including R since the early 2000s) allow you to use <code>=</code> to assign values to objects. <code>=</code> is one fewer key strokes. What is the backward pointing arrow about. Chambers in <a href="https://www.amazon.com/Extending-Chapman-Hall-John-Chambers/dp/1498775713"><em>Extending R</em></a> notes that</p>
+<blockquote>
+<p>The specific choice of <code>&lt;-</code> dates back to the first version of S [which R is based on]. We chose it in order to emphasize that the left and right operands are entirely different: a target on the left and a computed value on the right. Later versions of S and R accept the <code>=</code> operator, but for exposition the original choice remains clearer.</p>
+</blockquote>
+<p>Ok, doesn&rsquo;t seem to conform to The Law of Weird Computer Commands. But there is another layer to the story. Colin Fay <a href="https://colinfay.me/r-assignment/#:~:text=Historical%20reasons&amp;text=This%20language%20used%20%3C%2D%20as%20an,had%20this%20sign%20for%20assignment.&amp;text=So%20before%202001%2C%20the%20%3C%2D,assign%20value%20into%20a%20variable">notes</a> that R is based on S, which was a bit inspired by <a href="https://en.wikipedia.org/wiki/APL_(programming_language)">APL</a>. APL use <code>←</code> for assignment. It had its own keyboard that actually included a <code>←</code> key. So at one time it would have been fewer key presses to use the backwards arrow than the <code>=</code>, which was accessed with <code>Shift + 5</code>.</p>
 </div>
   
 </article>

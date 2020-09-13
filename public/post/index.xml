@@ -18,9 +18,8 @@
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dazzling-roentgen-3e71e9.netlify.app/post/law-of-weird-computer-things/</guid>
-      <description>The &amp;ldquo;Law&amp;rdquo; of Weird Computer Commands:
- Any time a computer command seems weird, it&amp;rsquo;s a path dependent consequence of keyboards not being standardised until the mid-1990s.
- For example, Vim/Vi is the &amp;ldquo;ubiquitous text editor&amp;rdquo;, especially for anyone working with Linux based servers. Just as ubiquitous, are the jokes about how difficult it is to exit Vim (here is a flow chart if your interested). You have to use the ESC key constantly, which is inconvenient for people with small hands on most keyboards and a real pain when Apple made the ESC a virtual button on the Touch Bar.</description>
+      <description>The QWERTY keyboard is one of the more commonly known examples of path dependence. The QWERTY keyboard is the story of how a keyboard designed for typewriters in the 1800s continues to influence the layout of our keyboards.
+Despite the persistence of the QWERTY keyboard letter layout, there was significant variation until about the mid-1990s (when the current desktop operating systems became dominant) for all of the keys surrounding the letters.</description>
     </item>
     
     <item>
