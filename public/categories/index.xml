@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Christopher Gandrud ℈</title>
-    <link>/categories/</link>
+    <link>https://dazzling-roentgen-3e71e9.netlify.app/categories/</link>
     <description>Recent content in Categories on Christopher Gandrud ℈</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, Christopher Gandrud</copyright>
-    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dazzling-roentgen-3e71e9.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>investing</title>
-      <link>/categories/investing/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <title>managing</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/categories/managing/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/investing/</guid>
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/categories/managing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>managing</title>
-      <link>/categories/managing/</link>
+      <title>investing</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/categories/investing/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/managing/</guid>
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/categories/investing/</guid>
       <description></description>
     </item>
     

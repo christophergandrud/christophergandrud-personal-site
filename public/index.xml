@@ -2,67 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher Gandrud ℈</title>
-    <link>/</link>
+    <link>https://dazzling-roentgen-3e71e9.netlify.app/</link>
     <description>Recent content on Christopher Gandrud ℈</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, Christopher Gandrud</copyright>
-    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dazzling-roentgen-3e71e9.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Law of Weird Computer Commands</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/post/law-of-weird-computer-things/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/post/law-of-weird-computer-things/</guid>
+      <description>The &amp;ldquo;Law&amp;rdquo; of Weird Computer Commands:
+ Any time a computer command seems weird, it&amp;rsquo;s a path dependent consequence of keyboards not being standardised until the mid-1990s.
+ For example, Vim/Vi is the &amp;ldquo;ubiquitous text editor&amp;rdquo;, especially for anyone working with Linux based servers. Just as ubiquitous, are the jokes about how difficult it is to exit Vim (here is a flow chart if your interested). You have to use the ESC key constantly, which is inconvenient for people with small hands on most keyboards and a real pain when Apple made the ESC a virtual button on the Touch Bar.</description>
+    </item>
+    
+    <item>
+      <title>Management and &#34;The Elements of Surprise&#34;</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/post/management-and-the-elements-of-surprise/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/post/management-and-the-elements-of-surprise/</guid>
+      <description>🚧 Under construction. A stub for a post
+  Intro A research team, a department, a company is at some fundamental level just:
+ a bunch of people talking to each other
+ Hopefully, when people talk to each other, they convey the meaning they intended to the people they are talking to. This can be a very hard thing to do in practice. We all have many experiences being misunderstood.</description>
+    </item>
+    
+    <item>
       <title>E-commerce Attribution &amp; Necessary vs. Sufficient Causation</title>
-      <link>/post/e-commerce-attribution-necessary-vs-sufficient-causation/</link>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/post/e-commerce-attribution-necessary-vs-sufficient-causation/</link>
       <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/e-commerce-attribution-necessary-vs-sufficient-causation/</guid>
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/post/e-commerce-attribution-necessary-vs-sufficient-causation/</guid>
       <description>The basic attribution problem The tools of causal inference–particularly the concepts of necessary and sufficient causation–are central to solving the e-commerce attribution problem. The e-commerce attribution problem is:
  how much of the value of an outcome should we ascribe to a given customer touch point out of a set of touch points that preceded the outcome?
  For example, a customer buys a t-shirt. What value should we ascribe to the multiple touch points where the customer saw and interacted with the t-shirt: Facebook ads for the t-shirt, on-site recommendations for the t-shirt, putting the t-shirt in their wishlist, putting the t-shirt in their cart, checkout out the t-shirt?</description>
     </item>
     
     <item>
+      <title>Reading Notes: The Library Bureau</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/post/reading-notes-the-library-bureau/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/post/reading-notes-the-library-bureau/</guid>
+      <description>To write </description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/about/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/about/</guid>
       <description>About me I&amp;rsquo;m Head of Economics and Experimentation at Zalando SE. I lead teams of social data scientists and software engineers building and evaluating large-scale automated decision-making systems, including Zalando&amp;rsquo;s A/B testing platform. I was previously a research fellow at the Institute for Quantitative Social Science, Harvard University developing statistical software for the social and physical sciences. I&amp;rsquo;ve also held posts at City, University of London, the Hertie School of Governance, Yonsei University, and the London School of Economics where in 2012 I completed a PhD in quantitative political science.</description>
     </item>
     
     <item>
       <title>Two extremes of 🧪scientific investment and innovation: Genentech and Theranos</title>
-      <link>/post/two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos/</link>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/post/two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos/</guid>
-      <description>## The contrast How can we successfully pair capital and research to produce genuine innovations that bring real value to many people? Two silicon valley biotech companies with very different trajectories highlight some factors that may be involved. The two companies are Genentech and Theranos.
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/post/two-extremes-of-scientific-investment-and-innovation-genentech-and-theranos/</guid>
+      <description>The contrast How can we successfully pair capital and research to produce genuine innovations that bring real value to many people? Two silicon valley biotech companies with very different trajectories highlight some factors that may be involved. The two companies are Genentech and Theranos.
 Both venture-capital-funded companies started in silicon valley with the aim to create valuable products based on new scientific research. Founded in 1976, Genentech has been enduringly successful since its first breakthrough in 1982 when it created synthetic insulin, the first genetically engineered human therapeutic.</description>
     </item>
     
     <item>
       <title>Letterlike Symbol of the Day: Scruple ℈</title>
-      <link>/post/letterlike-symbol-of-the-day-scruple/</link>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/post/letterlike-symbol-of-the-day-scruple/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/letterlike-symbol-of-the-day-scruple/</guid>
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/post/letterlike-symbol-of-the-day-scruple/</guid>
       <description>℈ scruple  a small unit in the apothecaries&amp;rsquo; system equal to 20 grains (wiki)
  My journey to the character Alexander Masters&amp;rsquo; A Life Discarded (2016) explores 148 diaries that his friends found in a skip in Cambridge. I&amp;rsquo;ve really enjoyed all of Masters&amp;rsquo; books; a loving biographies of Cambridge oddballs that makes that town seem about as eccentric and moldy as it likely is.
 One great joy of the book is its tour of ~50 years of notebooks and the information they came printed with:</description>
-    </item>
-    
-    <item>
-      <title>Management and &#34;The Elements of Surprise&#34;</title>
-      <link>/post/management-and-the-elements-of-surprise/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/management-and-the-elements-of-surprise/</guid>
-      <description>🚧 Under construction. A stub for a post
-  Intro A research team, a department, a company is at some fundamental level just:
- a bunch of people talking to each other
- Hopefully, when people talk to each other, they convey the meaning they intended to the people they are talking to. This can be a very hard thing to do in practice. We all have many experiences being misunderstood.</description>
     </item>
     
   </channel>

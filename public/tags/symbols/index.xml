@@ -2,22 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>symbols on Christopher Gandrud ℈</title>
-    <link>/tags/symbols/</link>
+    <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/symbols/</link>
     <description>Recent content in symbols on Christopher Gandrud ℈</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, Christopher Gandrud</copyright>
-    <lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/symbols/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dazzling-roentgen-3e71e9.netlify.app/tags/symbols/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Law of Weird Computer Commands</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/post/law-of-weird-computer-things/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/post/law-of-weird-computer-things/</guid>
+      <description>The &amp;ldquo;Law&amp;rdquo; of Weird Computer Commands:
+ Any time a computer command seems weird, it&amp;rsquo;s a path dependent consequence of keyboards not being standardised until the mid-1990s.
+ For example, Vim/Vi is the &amp;ldquo;ubiquitous text editor&amp;rdquo;, especially for anyone working with Linux based servers. Just as ubiquitous, are the jokes about how difficult it is to exit Vim (here is a flow chart if your interested). You have to use the ESC key constantly, which is inconvenient for people with small hands on most keyboards and a real pain when Apple made the ESC a virtual button on the Touch Bar.</description>
+    </item>
+    
+    <item>
       <title>Letterlike Symbol of the Day: Scruple ℈</title>
-      <link>/post/letterlike-symbol-of-the-day-scruple/</link>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/post/letterlike-symbol-of-the-day-scruple/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/letterlike-symbol-of-the-day-scruple/</guid>
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/post/letterlike-symbol-of-the-day-scruple/</guid>
       <description>℈ scruple  a small unit in the apothecaries&amp;rsquo; system equal to 20 grains (wiki)
  My journey to the character Alexander Masters&amp;rsquo; A Life Discarded (2016) explores 148 diaries that his friends found in a skip in Cambridge. I&amp;rsquo;ve really enjoyed all of Masters&amp;rsquo; books; a loving biographies of Cambridge oddballs that makes that town seem about as eccentric and moldy as it likely is.
 One great joy of the book is its tour of ~50 years of notebooks and the information they came printed with:</description>

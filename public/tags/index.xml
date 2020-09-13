@@ -2,157 +2,184 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Christopher Gandrud ℈</title>
-    <link>/tags/</link>
+    <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/</link>
     <description>Recent content in Tags on Christopher Gandrud ℈</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, Christopher Gandrud</copyright>
-    <lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dazzling-roentgen-3e71e9.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>a</title>
-      <link>/tags/a/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/a/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>attribution</title>
-      <link>/tags/attribution/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      <title>computing</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/computing/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/attribution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>c</title>
-      <link>/tags/c/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>causation</title>
-      <link>/tags/causation/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/causation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>e-commerce</title>
-      <link>/tags/e-commerce/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/e-commerce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>probability</title>
-      <link>/tags/probability/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/probability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>investing</title>
-      <link>/tags/investing/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/investing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>managing</title>
-      <link>/tags/managing/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/managing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>science</title>
-      <link>/tags/science/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>transparency</title>
-      <link>/tags/transparency/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/transparency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>two books</title>
-      <link>/tags/two-books/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/two-books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>leading</title>
-      <link>/tags/leading/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/leading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>letterlike</title>
-      <link>/tags/letterlike/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/letterlike/</guid>
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>symbols</title>
-      <link>/tags/symbols/</link>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/symbols/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/symbols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leading</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/leading/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/leading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>managing</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/managing/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/managing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>two books</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/two-books/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/two-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>attribution</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/attribution/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/attribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>causation</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/causation/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/causation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-commerce</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/e-commerce/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libraries</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/libraries/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/libraries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>probability</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/probability/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading notes</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/reading-notes/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/reading-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investing</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/investing/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/investing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/science/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transparency</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/transparency/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/transparency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>letterlike</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/letterlike/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/symbols/</guid>
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/letterlike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>a</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>b</title>
-      <link>/tags/b/</link>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/b/</guid>
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c</title>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>/tags/index/</link>
+      <link>https://dazzling-roentgen-3e71e9.netlify.app/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/index/</guid>
+      <guid>https://dazzling-roentgen-3e71e9.netlify.app/tags/index/</guid>
       <description></description>
     </item>
     
